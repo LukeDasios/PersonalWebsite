@@ -1,0 +1,1 @@
+-host other websites on AWS (one for budget app, one for flappy bird, and one for doodle jump)
